@@ -10,7 +10,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 
-I'm currently learning [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+- 🤔I'm currently learning  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 <!--
 **gongmg63/gongmg63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
