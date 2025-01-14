@@ -18,7 +18,7 @@
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 
 ## 🔗 Link
-<a href="https://gongmg63.github.io" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=flat&logo=github&logoColor=white"/></a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-181717?style=flat&logo=github&logoColor=white)](https://gongmg63.github.io)
 
 
 </div>
