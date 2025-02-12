@@ -1,11 +1,9 @@
 <div align="center">
 
 ## Hi there 👋
----
-
+<!-- ---
 🌱I'm currently learning  [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-
----
+--- -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongmg63&exclude_repo=gongmg63.github.io)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gongmg63)](https://solved.ac/gongmg63/)
 ## 💪Skills
